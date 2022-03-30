@@ -1,0 +1,8 @@
+class PLAYER {
+
+    constructor(){
+
+    }
+
+    
+}
